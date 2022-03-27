@@ -14,7 +14,7 @@ Currently improving my Deep Learning Skills.<br />
 
 ### My Github Stats ☀
 
-[![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=therajatrai)](https://github.com/anuraghazra/github-readme-stats)
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=therajatrai&count_private=true&show_icons=true&hide_border=true&theme=github_dark)
 
 ### Find me elsewhere 🌎
 
