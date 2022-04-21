@@ -1,5 +1,6 @@
-<img src="Add a heading (1).png" width="30px">
-.png
+<img src="Add a heading (1).png" width="100%">
+
+
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Rajat Rai](https://therajatrai.github.io/)!
 
 - 🔭 I’m currently working on Emissio, an immersive audio entertainment platform.
