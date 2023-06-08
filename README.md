@@ -3,11 +3,11 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Rajat Rai](https://therajatrai.github.io/)!
 
-- 🔭 I’m currently working on Emissio, an immersive audio entertainment platform.
+- 🔭 I’m currently working at RedHat as Devops Engineer. 
 - 👯 I’m looking to collaborate on Open Source.
 - 💬 Ask me about Coding Stuff.
 
-I worked as a SWE Intern at Clearcals. I´m based in India.
+
 
  I've been living and breathing software development and have vivid interest in Theoretical Computer Science . I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
  
