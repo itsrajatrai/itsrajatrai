@@ -1,23 +1,17 @@
-<img src="Add a heading (1).png" width="100%">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Rajat Rai](https://therajatrai.github.io/)!
+I am a software engineer who always looks to learn and innovate. I enjoy reading about historical fiction and some books that help me awaken the giant within me. I love talking about cloud technologies and the mysterious-sounding concepts of deep learning. When I'm not decoding complex algorithms, you might catch me deciphering conspiracy theories or losing myself in the soulful chords of my guitar. Balancing the technical with the imaginative, my journey is a dynamic exploration of both the digital and creative realms. ✨
 
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Rajat Rai](https://therajatrai.github.io/)!
-
-- 🔭 I’m currently working at RedHat as Devops Engineer. 
-- 👯 I’m looking to collaborate on Open Source.
-- 💬 Ask me about Coding Stuff.
-
-
-
- I've been living and breathing software development and have vivid interest in Theoretical Computer Science . I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+#### 📢Do you have something for me to talk about ? [Mail Me!](mailto:therajatraiofficial@gmail.com)
  
 ### What I'm focusing on 👨‍💻
 
-Currently improving my Deep Learning Skills.<br /> 
+- Exploring more about Deep Learning 🤖
+- Starting Open-Source Contribution Again 🎆
+- Dwelling more into the DevOps and SRE concepts ⚙️
 
 ### My Github Stats ☀
 
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=therajatrai&count_private=true&show_icons=true&hide_border=true&theme=github_dark)
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsrajatrai&count_private=true&show_icons=true&hide_border=true&theme=github_dark)
 
 ### Find me elsewhere 🌎
 
