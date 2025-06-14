@@ -20,7 +20,7 @@ I'm driven by the idea of building tools that **empower**, simplify life, and ma
 🧠 Currently building:
 
 - ✨ **PicPat** – Pattern generation from images, for creatives  
-- 🧪 **KALPA** – A programming language inspired by structured English
+- 🧪 **KALPA** – A programming language inspired by structured Sanskrit
 
 ---
 
@@ -38,10 +38,10 @@ I'm driven by the idea of building tools that **empower**, simplify life, and ma
 
 | 🔧 Project | 🌟 Description |
 |-----------|---------------|
-| 🎨 [**PicPat**](https://picpat.vercel.app) | Create repeatable geometric patterns from image crops. For designers, crafters, and artists. |
+| 🎨 [**PicPat**](https://picpat.in) | Create repeatable geometric patterns from image crops. For designers, crafters, and artists. |
 | 🧬 [**KALPA**](https://github.com/therajatrai/kalpa) | A structured-English programming language. Bridging human readability with logical precision. |
 | 🎧 **Emissio Audio** *(coming soon)* | A platform for self-hosted audio dramas — storytelling meets tech. |
-| 🧠 **AuxiVault** *(alpha)* | A hybrid knowledge storage + search tool — inspired by memory systems. |
+| 🧠 **AuxiVault** *(coming soon)* | A hybrid knowledge storage + search tool — inspired by memory systems. |
 
 ---
 
@@ -66,7 +66,7 @@ I'm driven by the idea of building tools that **empower**, simplify life, and ma
 
 ---
 
-✅ Want to leave a quote or chat with me? [Email me](mailto:therajatraiofficial@gmail.com) or reach out on [Twitter](https://twitter.com/ItsRajatRai)!
+✅ Want to leave a quote or chat with me? [Email me](mailto:therajatraiofficial@gmail.com) or reach out on [X](https://x.com/ItsRajatRai)!
 
 ---
 
@@ -98,7 +98,7 @@ I'm driven by the idea of building tools that **empower**, simplify life, and ma
 
 ### 🎯 मैं अभी क्या कर रहा हूँ
 
-- [**PicPat**](https://picpat.vercel.app): चित्रों से पैटर्न जनरेशन टूल  
+- [**PicPat**](https://picpat.in): चित्रों से पैटर्न जनरेशन टूल  
 - [**KALPA**](https://github.com/therajatrai/kalpa): सहज और मानव-पठनीय प्रोग्रामिंग भाषा
 
 ---
