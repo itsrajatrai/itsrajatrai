@@ -2,9 +2,10 @@
 
 > *Curious Engineer | Creative Technologist | Explorer of Ideas*
 
-🔁 Switch Language: [English Version](#english-version) | [हिंदी संस्करण](#हिंदी-संस्करण) 
-
+🔁 Switch Language: [English Version](#english-version) | [हिंदी संस्करण](#hindi-version) 
 ---
+
+<a name="english-version"></a>
 
 ## 🧭 Vision
 
@@ -37,7 +38,7 @@ I'm driven by the idea of building tools that **empower**, simplify life, and ma
 
 | 🔧 Project | 🌟 Description |
 |-----------|---------------|
-| 🎨 [**PicPat**](https://picpat.in) | Create repeatable geometric patterns from image crops. For designers, crafters, and artists. |
+| 🎨 [**PicPat**](https://picpat.vercel.app) | Create repeatable geometric patterns from image crops. For designers, crafters, and artists. |
 | 🧬 [**KALPA**](https://github.com/therajatrai/kalpa) | A structured-English programming language. Bridging human readability with logical precision. |
 | 🎧 **Emissio Audio** *(coming soon)* | A platform for self-hosted audio dramas — storytelling meets tech. |
 | 🧠 **AuxiVault** *(alpha)* | A hybrid knowledge storage + search tool — inspired by memory systems. |
@@ -83,6 +84,8 @@ I'm driven by the idea of building tools that **empower**, simplify life, and ma
 
 ---
 
+<a name="hindi-version"></a>
+
 ## 🇮🇳 हिंदी संस्करण
 
 ### 🙏 नमस्ते, मैं [**Rajat Rai**](https://therajatrai.github.io/) हूँ
@@ -95,7 +98,7 @@ I'm driven by the idea of building tools that **empower**, simplify life, and ma
 
 ### 🎯 मैं अभी क्या कर रहा हूँ
 
-- [**PicPat**](https://picpat.in): चित्रों से पैटर्न जनरेशन टूल  
+- [**PicPat**](https://picpat.vercel.app): चित्रों से पैटर्न जनरेशन टूल  
 - [**KALPA**](https://github.com/therajatrai/kalpa): सहज और मानव-पठनीय प्रोग्रामिंग भाषा
 
 ---
