@@ -2,7 +2,7 @@
 
 > *Curious Engineer | Creative Technologist | Explorer of Ideas*
 
-🔁 Switch Language: [हिंदी संस्करण](#हिंदी-संस्करण) | [English Version](#english-version)
+🔁 Switch Language: [English Version](#english-version) | [हिंदी संस्करण](#हिंदी-संस्करण) 
 
 ---
 
@@ -37,7 +37,7 @@ I'm driven by the idea of building tools that **empower**, simplify life, and ma
 
 | 🔧 Project | 🌟 Description |
 |-----------|---------------|
-| 🎨 [**PicPat**](https://picpat.vercel.app) | Create repeatable geometric patterns from image crops. For designers, crafters, and artists. |
+| 🎨 [**PicPat**](https://picpat.in) | Create repeatable geometric patterns from image crops. For designers, crafters, and artists. |
 | 🧬 [**KALPA**](https://github.com/therajatrai/kalpa) | A structured-English programming language. Bridging human readability with logical precision. |
 | 🎧 **Emissio Audio** *(coming soon)* | A platform for self-hosted audio dramas — storytelling meets tech. |
 | 🧠 **AuxiVault** *(alpha)* | A hybrid knowledge storage + search tool — inspired by memory systems. |
@@ -53,19 +53,27 @@ I'm driven by the idea of building tools that **empower**, simplify life, and ma
 
 ---
 
-## 📬 Let's Connect
+## 💬 What People Say
 
-Got an idea, feedback, or a cool project?
+> “Rajat thinks in systems and builds with heart.” — *A mentor*
+
+> “He merges logic and creativity better than anyone I know.” — *A peer*
+
+> “PicPat feels like magic. I never knew patterns could be this fun.” — *Early user*
+
+> “KALPA is the most human programming language I've seen.” — *Developer friend*
+
+---
+
+✅ Want to leave a quote or chat with me? [Email me](mailto:therajatraiofficial@gmail.com) or reach out on [Twitter](https://twitter.com/ItsRajatRai)!
+
+---
+
+## 📬 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Email-therajatraiofficial@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:therajatraiofficial@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-rai-2002/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ItsRajatRai)
-
----
-
-## 📊 GitHub Stats
-
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsrajatrai&count_private=true&show_icons=true&hide_border=true&theme=github_dark)
 
 ---
 
@@ -83,17 +91,25 @@ Got an idea, feedback, or a cool project?
 
 📌 *मेरा लक्ष्य है तकनीक को सरल, उपयोगी और हर किसी के लिए सुलभ बनाना।*
 
+---
+
 ### 🎯 मैं अभी क्या कर रहा हूँ
 
-- [**PicPat**](https://picpat.vercel.app): चित्रों से पैटर्न जनरेशन टूल  
+- [**PicPat**](https://picpat.in): चित्रों से पैटर्न जनरेशन टूल  
 - [**KALPA**](https://github.com/therajatrai/kalpa): सहज और मानव-पठनीय प्रोग्रामिंग भाषा
+
+---
 
 ### 📖 मैं अभी क्या सीख रहा हूँ
 
 - डीप लर्निंग और न्यूरल नेटवर्क्स  
 - डेवऑप्स और एसआरई  
-- क्लाउड और कुबेरनेटिस
+- क्लाउड और कुबेरनेटिस  
+- सुंदर UI/UX डिजाइन  
+- नए प्रयोग, नए विचार
 
 ---
 
 🌐 *धन्यवाद! जुड़ने के लिए संपर्क करें:* [therajatraiofficial@gmail.com](mailto:therajatraiofficial@gmail.com)
+
+---
